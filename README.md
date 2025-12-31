@@ -177,22 +177,6 @@ Log uploaded to devops-log-a1b2c3/log.txt
 
 ---
 
-## Why This Project Matters
-
-This project mirrors real DevOps work:
-
-* Integrating multiple systems via APIs
-* Automating cloud tasks
-* Building maintainable, scalable workflows
-
-It is ideal for:
-
-* Junior to mid-level DevOps roles
-* Cloud Support / Customer Success Engineering roles
-* Platform or SRE-focused interviews
-
----
-
 ## Author
 
 **Kimberly Nnamadim**
